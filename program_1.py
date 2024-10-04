@@ -1,4 +1,4 @@
-#miles = kilometers x 0.6214
+#this program coverts kilometers to miles with a conversion factor of 0.6214
 
 #convert kilometers to miles
 def conversion(kilometers):
